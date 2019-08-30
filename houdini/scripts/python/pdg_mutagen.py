@@ -9,7 +9,7 @@ import pdg_mutagen_ui
 
 
 #info
-__author__ = "Adrian Meyer @Animationsinstitut Filmakademie Baden-Württemberg"
+__author__ = "Adrian Meyer @Animationsinstitut Filmakademie Baden-Wurttemberg"
 __copyright__ = "2019 All rights reserved. See LICENSE for more details."
 __status__ = "Prototype"
 
